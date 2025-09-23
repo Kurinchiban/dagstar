@@ -1,0 +1,8 @@
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - LOGS_CAPTURED - Started capturing logs in process (pid: 1643255).
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - world - STEP_START - Started execution of step "world".
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mINFO[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - world - World!
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - world - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - world - Writing file at: /home/kurinchiban/Desktop/dagstar/dagster-quickstart/.tmp_dagster_home_398lrsq0/storage/world using PickledObjectFilesystemIOManager...
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - world - ASSET_MATERIALIZATION - Materialized value world.
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - world - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2025-09-19 13:14:36 +0530[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - cdbe259c-281c-4f9d-8bef-24f7a7128257 - 1643255 - world - STEP_SUCCESS - Finished execution of step "world" in 110ms.
